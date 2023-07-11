@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Dr Weird
-- 👀 I’m interested in unethical hacking ...
-- 🌱 I’m currently learning everthing about unethical hacking...
-- 💞️ I’m looking to collaborate on PRO Hackers...
-- 📫 How to reach me Only on Dreams...
-
-<!---
-drweird911/drweird911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-    
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
